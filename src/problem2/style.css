@@ -1,0 +1,22 @@
+body {
+  /*display: flex;
+  flex-direction: row*/
+  align-items: center;
+  justify-content: center;
+  min-width: 360px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #88292F;
+  padding: 5px;
+  font-family: Century Gothic;
+  text-align: center;
+  font-size: 12px;
+  color: white;
+}
+
+#content {
+  padding: 20px;
+  background-color: #f1f1f1;
+}
